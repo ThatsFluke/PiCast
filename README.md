@@ -2,7 +2,7 @@
 This is the official PiCast project repository.
 
 # How to install?
-Either install the API (setup.sh) or Download the OS (Coming soon!)
+Either install the API (setup.sh) or Download the OS (Coming soon! / idk how to compile the os into a image so im learning how to)
 
 # How to install via the API
 Clone this repository to your Pi.( git clone https://github.com/ThatsFluke/PiCast/ ) Once done, in your terminal, make sure your in the PiCast directory. ( If not do cd PiCast ) And type chmod +x setup.sh . Then type ./setup.sh in your terminal and the setup will execute. Let it install the API and dependencies  You need to enable SSH on your Pi and reboot it for casting to work.
@@ -16,4 +16,4 @@ For Twitch, When your on the stream, copy the link and go into the RaspiCast app
 Enjoy!
 
 # How to install the OS?
-Coming soon.
+Coming soon, I need to know how to compile the os into a image.
